@@ -1,2 +1,2 @@
-# ML-Projects
-Machine Learning Projects
+# AI-Projects
+Machine Learning and Deep Learning Projects
